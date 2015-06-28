@@ -53,6 +53,11 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 - [@JMEspiz en Twitter](https://twitter.com/jmespiz).
 
 ##Cojedes
+##### Rafnix Guzmán.
+- Tinaquillo, Edo. Cojedes.
+- [rafnixg en Github](https://github.com/rafnixg).
+- [@rafnixg en Twitter](https://twitter.com/rafnixg).
+
 ##Delta Amacuro
 ##Falcón
 ##### Israel Lugo.
