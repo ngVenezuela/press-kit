@@ -55,6 +55,11 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 ##Cojedes
 ##Delta Amacuro
 ##Falcón
+##### Israel Lugo.
+- Coro, Edo. Falcón.
+- [hostelix en Github](https://github.com/hostelix).
+- [@izrraj en Twitter](https://twitter.com/izrraj).
+
 ##Guárico
 ##Lara
 ##Mérida
