@@ -84,6 +84,9 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 - [@gilberto_286 en Twitter](https://twitter.com/gilberto_286).
 
 ##Distrito Capital
-
+##### Wilfredo Pérez.
+- Caracas, Distrito Cápital.
+- [Freakdroid en Github](https://github.com/Freakdroid).
+- [@Freakdroid en Twitter](https://twitter.com/Freakdroid).
 
 
