@@ -47,6 +47,11 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 - [alexsalas en Github](https://github.com/alexsalas).
 - [@ajsb85 en Twitter](https://twitter.com/ajsb85).
 
+##### Alfredo Alfonzo.
+- Valencia, Edo. Carabobo.
+- [alfre150 en Github](https://github.com/alfre150).
+- [@alfre150 en Twitter](https://twitter.com/alfre150).
+
 ##### José Manuel Espinoza.
 - Valencia, Edo. Carabobo.
 - [JMEspiz en Github](https://github.com/JMEspiz).
