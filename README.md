@@ -4,7 +4,7 @@ Material multimedia oficial de la comunidad ngVenezuela... **En Construcción**
 
 Únete a ngVenezuela en Github
 ---
-Solicita que tu adhesión cómo colaborador de la organización. Lee esta [incidencia](https://github.com/ngVenezuela/press-kit/issues/3)  y deja los datos solicitados.
+Solicita tu adhesión cómo colaborador de la organización. Lee esta [incidencia](https://github.com/ngVenezuela/press-kit/issues/3)  y deja los datos solicitados.
 
 Logo Oficial de la comunidad
 ---
