@@ -1,6 +1,8 @@
 PRESS KIT de ngVenezuela
 ===
-Material multimedia oficial de la comunidad ngVenezuela... **En Construcción**
+Sitio Web Oficial : **[ngVenezuela.org.ve](http://ngvenezuela.org.ve/ "En construcción")**...**En Construcción**
+
+Material multimedia oficial de la comunidad ngVenezuela... **En Construcción**.
 
 Únete a ngVenezuela en Github
 ---
