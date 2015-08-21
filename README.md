@@ -10,14 +10,24 @@ Solicita tu adhesión cómo colaborador de la organización. Lee esta [incidenci
 
 Logo Oficial de la comunidad
 ---
-![ngVenezuela](https://avatars1.githubusercontent.com/u/11722566?v=3&s=350)
+![ngVenezuela](img/logo/logo_angular.svg)
 
 *¿Eres diseñador? ¿Crees que nuestro logo se puede mejorar? Te invitamos a compartir tú talento con nosotros.*
 
 Directorio de Desarrolladores
 ---
-Queremos saber donde estámos, y cómo contactarnos, para eso este directorio. Puedes solicitar tu adhesión en la siguiente [incidencia](https://github.com/ngVenezuela/press-kit/issues/2 "Entra en nuestro directorio!"). 
+Queremos saber donde estámos, y cómo contactarnos, para eso este directorio. Puedes solicitar tu adhesión en la siguiente [incidencia](https://github.com/ngVenezuela/press-kit/issues/2 "Entra en nuestro directorio!").
 
+### Actualización
+
+Tenemos nuevo logo gracias a:
+
+Yormi Altamiranda pueden seguirlo por sus cuentas en:
+* Twitter @yormialtamirad
+* GitHub yormi-altamiranda (Yormi)
+* Google+ yormi Altamiranda
+
+Gracias!! :smile:
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licencia Creative Commons Atribución-NoComercial-SinDerivar 4.0 Internacional</a>.
