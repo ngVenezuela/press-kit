@@ -10,7 +10,7 @@ Solicita tu adhesión cómo colaborador de la organización. Lee esta [incidenci
 
 Logo Oficial de la comunidad
 ---
-![ngVenezuela](img/logo/logo_angular.svg)
+![ngVenezuela](https://raw.githubusercontent.com/ngVenezuela/press-kit/master/img/logo/logo_angular.png)
 
 *¿Eres diseñador? ¿Crees que nuestro logo se puede mejorar? Te invitamos a compartir tú talento con nosotros.*
 
