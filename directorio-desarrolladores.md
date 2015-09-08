@@ -79,6 +79,13 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 ##Portuguesa
 ##Sucre
 ##Táchira
+
+##### Miguel Useche
+ - San Cristóbal, Táchira.
+ - [skatox en Github](https://github.com/skatox)
+ - [@skatox en Twitter](https://twitter.com/skatox).
+
+
 ##Trujillo
 ##Vargas
 ##Yaracuy
@@ -99,4 +106,9 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 - Caracas, Distrito Cápital.
 - [Freakdroid en Github](https://github.com/Freakdroid).
 - [@Freakdroid en Twitter](https://twitter.com/Freakdroid).
+
+#####  Javier León.
+- Caracas, Distrito Cápital.
+- [jelitox en Github](https://github.com/jelitox).
+- [@jelitox2 en Twitter](https://twitter.com/jelitox).
 
