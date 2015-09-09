@@ -32,6 +32,7 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 ##Barinas
 ##Bolívar
 ##Carabobo
+
 ##### Andrés Villanueva.
 - Valencia, Edo. Carabobo.
 - [Villanuevand en Github](https://github.com/Villanuevand).
@@ -58,6 +59,7 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 - [@JMEspiz en Twitter](https://twitter.com/jmespiz).
 
 ##Cojedes
+
 ##### Rafnix Guzmán.
 - Tinaquillo, Edo. Cojedes.
 - [rafnixg en Github](https://github.com/rafnixg).
@@ -65,6 +67,7 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 
 ##Delta Amacuro
 ##Falcón
+
 ##### Israel Lugo.
 - Coro, Edo. Falcón.
 - [hostelix en Github](https://github.com/hostelix).
@@ -74,6 +77,17 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 ##Lara
 ##Mérida
 ##Miranda
+
+##### Kevin Dels
+- Guarenas, Edo. Miranda.
+- [k3v1nd315 en Github](https://github.com/k3v1nd315).
+- [@kevindels en Twitter](https://twitter.com/kevindels).
+
+##### Israel Simmons
+- Guatire, Edo. Miranda.
+- [israelsimmons en Github](https://github.com/israelsimmons).
+- [@israSimm en Twitter](https://twitter.com/IsraSimm).
+
 ##Monagas
 ##Nueva Esparta
 ##Portuguesa
@@ -82,33 +96,42 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 
 ##### Miguel Useche
  - San Cristóbal, Táchira.
- - [skatox en Github](https://github.com/skatox)
+ - [skatox en Github](https://github.com/skatox).
  - [@skatox en Twitter](https://twitter.com/skatox).
-
 
 ##Trujillo
 ##Vargas
 ##Yaracuy
 ##Zulia
+
 ##### Gilberto Trujillo.
 - Maracaibo, Edo. Zulia.
 - [gilberto1487 en Github](https://github.com/gilberto1487).
 - [@gilberto_286 en Twitter](https://twitter.com/gilberto_286).
+
+##### Juan Delgadillo
+- Maracaibo, Edo. Zulia.
+- [JuanDelgadillo en Github](https://github.com/JuanDelgadillo).
+- [@elgadillojuanm en Twitter](https://twitter.com/elgadillojuanm).
+
+##### Jobsamuel Núñez
+- Maracaibo, Edo. Zulia.
+- [jobsamuel en Github](https://github.com/jobsamuel).
+- [@jobsamuel en Twitter](https://twitter.com/jobsamuel).
 
 ##Distrito Capital
 
 ##### Carlos Malavé.
 - Caracas, Distrito Cápital.
 - [hellfish2 en Github](https://github.com/hellfish2).
-- [@hellfish2 en Twitter](https://twitter.com/hellfish2).
+- [@hellfish2 en Twitter](https://twitter.com/hellfish2)..
 
 ##### Wilfredo Pérez.
 - Caracas, Distrito Cápital.
-- [Freakdroid en Github](https://github.com/Freakdroid).
-- [@Freakdroid en Twitter](https://twitter.com/Freakdroid).
+- [Freakdroid en Github](https://github.com/Freakdroid)..
+- [@Freakdroid en Twitter](https://twitter.com/Freakdroid)..
 
 #####  Javier León.
 - Caracas, Distrito Cápital.
 - [jelitox en Github](https://github.com/jelitox).
 - [@jelitox2 en Twitter](https://twitter.com/jelitox).
-
