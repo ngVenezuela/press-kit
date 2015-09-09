@@ -134,4 +134,4 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 #####  Javier León.
 - Caracas, Distrito Cápital.
 - [jelitox en Github](https://github.com/jelitox).
-- [@jelitox2 en Twitter](https://twitter.com/jelitox).
+- [@jelitox en Twitter](https://twitter.com/jelitox).
