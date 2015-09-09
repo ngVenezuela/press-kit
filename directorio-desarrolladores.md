@@ -112,7 +112,7 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 ##### Juan Delgadillo
 - Maracaibo, Edo. Zulia.
 - [JuanDelgadillo en Github](https://github.com/JuanDelgadillo).
-- [@elgadillojuanm en Twitter](https://twitter.com/elgadillojuanm).
+- [@delgadillojuanm en Twitter](https://twitter.com/delgadillojuanm).
 
 ##### Jobsamuel Núñez
 - Maracaibo, Edo. Zulia.
