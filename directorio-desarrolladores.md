@@ -124,12 +124,12 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 ##### Carlos Malavé.
 - Caracas, Distrito Cápital.
 - [hellfish2 en Github](https://github.com/hellfish2).
-- [@hellfish2 en Twitter](https://twitter.com/hellfish2)..
+- [@hellfish2 en Twitter](https://twitter.com/hellfish2).
 
 ##### Wilfredo Pérez.
 - Caracas, Distrito Cápital.
-- [Freakdroid en Github](https://github.com/Freakdroid)..
-- [@Freakdroid en Twitter](https://twitter.com/Freakdroid)..
+- [Freakdroid en Github](https://github.com/Freakdroid).
+- [@Freakdroid en Twitter](https://twitter.com/Freakdroid).
 
 #####  Javier León.
 - Caracas, Distrito Cápital.
