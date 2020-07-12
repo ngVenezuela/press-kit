@@ -20,14 +20,13 @@ Queremos saber donde estámos, y cómo contactarnos, para eso este directorio. P
 
 ### Actualización
 
-Tenemos nuevo logo gracias a:
+Se ha actualizado el logo con el estilo de Angular. El logo anterior de AngularJS fue realizado por:
 
 Yormi Altamiranda pueden seguirlo por sus cuentas en:
 * Twitter @yormialtamirad
 * GitHub yormi-altamiranda (Yormi)
-* Google+ yormi Altamiranda
 
-Gracias!! :smile:
+¡Gracias! :smile:
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licencia Creative Commons Atribución-NoComercial-SinDerivar 4.0 Internacional</a>.
